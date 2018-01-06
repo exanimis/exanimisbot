@@ -1,0 +1,11 @@
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\bin\Debug\netcoreapp2.0\ExanimisBot.deps.json
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\bin\Debug\netcoreapp2.0\ExanimisBot.runtimeconfig.json
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\bin\Debug\netcoreapp2.0\ExanimisBot.runtimeconfig.dev.json
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\bin\Debug\netcoreapp2.0\ExanimisBot.dll
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\obj\Debug\netcoreapp2.0\ExanimisBot.csprojResolveAssemblyReference.cache
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\obj\Debug\netcoreapp2.0\ExanimisBot.csproj.CoreCompileInputs.cache
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\obj\Debug\netcoreapp2.0\ExanimisBot.AssemblyInfoInputs.cache
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\obj\Debug\netcoreapp2.0\ExanimisBot.AssemblyInfo.cs
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\bin\Debug\netcoreapp2.0\ExanimisBot.pdb
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\obj\Debug\netcoreapp2.0\ExanimisBot.dll
+C:\Users\Exanimis\source\repos\ExanimisBot\ExanimisBot\obj\Debug\netcoreapp2.0\ExanimisBot.pdb
